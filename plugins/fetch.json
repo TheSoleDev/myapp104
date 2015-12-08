@@ -1,0 +1,11 @@
+{
+    "com.zLineup.cordova.plugin.speech": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/davidhadas/CordovaSpeechRecognitionPlugin",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
